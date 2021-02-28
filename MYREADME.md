@@ -25,18 +25,27 @@ Examples:
 HTML:
 
 -Added a header and changed div to nav/added nav to CSS as well
+
 -Added alt attribute to images
+
 -Added article and section elements in place of div
+
 -Deleted not needed ending tags on images
+
 -Added article and aside elements
+
 -Deleted unneeded images tags and / on image tags 
+
 -Added footer instead of div
 
 CSS:
 
 -Put CSS in correct order corresponding with html
+
 -Changed div to nav to link all properties in CSS 
+
 -Changed the seo color to make it stand out more 
+
 -Added '' to Calibri to function as backup
 
 ## Credits
