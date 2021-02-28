@@ -14,16 +14,18 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* Changed div to nav (done) */
+/* Changed div to nav to link all properties in CSS */
+/* Changed the seo color to make it stand out more */
+/* Added '' to Calibri to function as backup */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* Changed the seo color to make it stand out more  */
+
 .header h1 .seo {
     color: #f79a64;
 }
-/* added '' to calibri to function as backup  */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,9 +47,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* Changed div to nav (done) */
 
-/* how do I add an alt attibute to this img */
 .hero {
     height: 800px;
     width: 100%;
@@ -57,14 +57,12 @@ a {
     background-position: center;
 
 }
-/* putting css in correct order corisponding with html */
+/* Put CSS in correct order corresponding with html */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-/* added '' to calibri to function as backup  */ /* Orginized css to match html  */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -84,7 +82,7 @@ a {
     font-size: 36px;
 }
 
-/* added '' to calibri to function as backup  */
+/* Added '' to calibri to function as backup  */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,7 +101,7 @@ a {
     font-size: 36px;
 }
 
-/* added '' to calibri to function as backup  */
+/* Added '' to calibri to function as backup  */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,8 +119,8 @@ a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* added '' to calibri to function as backup  */ /* Orginized css to match html  */
-
+/* Added '' to calibri to function as backup  */ 
+/* Orginized css to match html  */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -137,7 +135,7 @@ p {
     margin-right: 25px;
 }
 
-/* added '' to calibri to function as backup  */
+/* Added '' to calibri to function as backup  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -207,4 +205,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/* Orginized css to match html  */
