@@ -24,6 +24,8 @@ Examples:
 
 HTML:
 
+Website is now ready to use a screen reader 
+
 -Added a header and changed div to nav/added nav to CSS as well
 
 -Added alt attribute to images
